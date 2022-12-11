@@ -18,7 +18,7 @@ N/A
 
 ## Link to live website
 
-https://joshlaforest.github.io/HTML-refactor/
+[Click here to view live website](https://joshlaforest.github.io/HTML-refactor/)
 
 
 ## License
