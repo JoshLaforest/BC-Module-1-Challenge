@@ -11,6 +11,16 @@ This project involved refactoring the code to make it cleaner and more accessibl
 N/A
 
 
+## Screenshot
+
+![Screenshot of the live web application](/Assets/images/html-refactor-screenshot.png)
+
+
+## Link to live website
+
+https://joshlaforest.github.io/HTML-refactor/
+
+
 ## License
 
 MIT License
